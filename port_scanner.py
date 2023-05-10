@@ -12,8 +12,8 @@ else:
   print("Invalid amount of Argument you must enter the IP")
 
 print("-" * 50)
-print("Scanning Target: " * target)
-print("Scanning started at:" * str(datatime.now()))
+print("Scanning Target: " + target)
+print("Scanning started at:" + str(datatime.now()))
 print("-" * 50)
 
 try:
