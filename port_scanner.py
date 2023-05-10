@@ -36,7 +36,6 @@ except socket.gaierror:
 except socket.error:
         print("\n Server Not Responding !")
         sys.exit()
-
-               
+            
 # END OF CODE
 # END OF FILE
