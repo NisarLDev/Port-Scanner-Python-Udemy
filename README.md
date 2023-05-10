@@ -12,6 +12,8 @@
 
 3 - https://www.fortinet.com/resources/cyberglossary/what-is-port-scan
 
+4 - https://www.paloaltonetworks.com/cyberpedia/what-is-a-port-scan
+
  ## Test
  
  If you want to test the scanner legally, use this page:
