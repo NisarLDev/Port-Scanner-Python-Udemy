@@ -6,8 +6,9 @@
 
  ## Test
  
-  If you want to test the scanner, use this page:
-  
+ If you want to test the scanner legally, use this page:
+ 
+ 
   http://scanme.nmap.org
   
   
