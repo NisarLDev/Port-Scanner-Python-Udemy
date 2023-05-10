@@ -24,7 +24,7 @@ try:
         
         result = s.connect_ex((target, port))
         if result == 0:
-            print(port {} is open".format(port))
+            print("Port {} is open".format(port))
         s.close()
                   
 except KeyboardInterrupt:
