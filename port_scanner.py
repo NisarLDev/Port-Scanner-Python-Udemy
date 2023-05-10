@@ -1,7 +1,7 @@
 import pyfiglet
 import sys
 import socket
-from datatime import datatime
+from datetime import datetime
 
 ascii_banner = pyfiglet.figlet_format("PORT SCANNER FROM PYTHON 3")
 print(ascii_banner)
