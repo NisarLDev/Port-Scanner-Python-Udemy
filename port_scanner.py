@@ -13,7 +13,7 @@ else:
 
 print("-" * 50)
 print("Scanning Target: " + target)
-print("Scanning started at:" + str(datatime.now()))
+print("Scanning started at:" + str(datetime.now()))
 print("-" * 50)
 
 try:
