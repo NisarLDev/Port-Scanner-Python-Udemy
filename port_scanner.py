@@ -10,3 +10,8 @@ if len(sys.argv) == 2:
     target = socket.gethostbyname(sys.argv[1])
 else:
   print("Invalid amount of Argument you must enter the IP")
+
+print("-" * 50)
+print("Scanning Target: " * target)
+print("-" * 50)
+
