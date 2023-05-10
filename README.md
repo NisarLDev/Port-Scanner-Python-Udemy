@@ -14,6 +14,8 @@
 
 4 - https://www.paloaltonetworks.com/cyberpedia/what-is-a-port-scan
 
+5 - https://www.checkpoint.com/cyber-hub/network-security/what-is-a-port-scan/
+
  ## Test
  
  If you want to test the scanner legally, use this page:
