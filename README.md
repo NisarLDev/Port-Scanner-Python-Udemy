@@ -8,7 +8,10 @@
  
   If you want to test the scanner, use this page:
   
-  http://scanme.nmap.org
+  https://scanme.nmap.org
+  
+  https://scanme.nmap.org
+
 
  ### Bibliography
  
