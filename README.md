@@ -23,3 +23,12 @@
     
     https://docs.python.org/3/library/socket.html
 
+
+5 - python - name 'target' is not defined Feature Selection - Stack Overflow
+    
+    https://stackoverflow.com/questions/71106959/name-target-is-not-defined-feature-selection
+
+6 - What is wrong with the code?
+    
+    https://python-forum.io/thread-1090.html
+
