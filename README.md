@@ -4,6 +4,14 @@
  
 1 - Open a terminal and type the following command: pip install pyfiglet datetime
 
+ ## What's is a Port Scanner
+
+1 - https://www.eccouncil.org/cybersecurity-exchange/penetration-testing/preventing-malicious-hacks-with-port-scanning-techniques/
+
+2 - https://encyclopedia.kaspersky.com/glossary/port-scanning/
+
+3 - https://www.fortinet.com/resources/cyberglossary/what-is-port-scan
+
  ## Test
  
  If you want to test the scanner legally, use this page:
