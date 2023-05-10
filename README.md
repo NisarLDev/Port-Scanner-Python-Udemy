@@ -4,7 +4,7 @@
  
 1 - Open a terminal and type the following command: pip install pyfiglet datetime
 
- ## What's is a Port Scanner
+ ## What is a Port Scanner
 
 1 - https://www.eccouncil.org/cybersecurity-exchange/penetration-testing/preventing-malicious-hacks-with-port-scanning-techniques/
 
