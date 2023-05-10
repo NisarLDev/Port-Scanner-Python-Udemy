@@ -40,4 +40,6 @@
 6 - What is wrong with the code?
     
     https://python-forum.io/thread-1090.html
+    
+7 - https://superfastpython.com/threadpoolexecutor-port-scanner/#Scan_a_Range_of_Ports_on_a_Server
 
