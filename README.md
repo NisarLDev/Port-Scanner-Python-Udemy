@@ -4,6 +4,11 @@
  
 1 - Open a terminal and type the following command: pip install pyfiglet datetime
 
+ ## Test
+ 
+  If you want to test the scanner, use this page:
+  
+  scanme.nmap.org
 
  ### Bibliography
  
